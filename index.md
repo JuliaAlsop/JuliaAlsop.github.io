@@ -27,18 +27,18 @@
       <th>Games</th>
     </tr>
     <tr>
-      <td>Harry Potter</td>
+      <td>Sherlock Holms Collection</td>
       <td>UnderWorld</td>
-      <td>Fantastic Four</td>
-    </tr>
-    <tr>
-      <td>Sherlock Holmes Collection</td>
-      <td>The Mortal Instruments Collection</td>
-      <td>Pride & Prejudice</td>
-    </tr>
-    <tr>
       <td>Galaga</td>
-      <td>Mario Kart</td>
+    </tr>
+    <tr>
+      <td>Pride & Prejudice</td>
+      <td>Fantastic Four</td>
+      <td>Donkey Kong</td>
+    </tr>
+    <tr>
+      <td>The Mortal Instruments Collection</td>
+      <td>UnderWorld</td>
       <td>Halo</td>
     </tr>
   </table>
