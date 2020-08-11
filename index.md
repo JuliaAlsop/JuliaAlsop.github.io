@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td>Sherlock Holms Collection</td>
-      <td>UnderWorld</td>
+      <td>Harry Potter</td>
       <td>Galaga</td>
     </tr>
     <tr>
