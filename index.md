@@ -11,8 +11,8 @@
 
   <img src="https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/116430622_4679869345360207_7416634193622345272_o.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=Qt45sUknnq0AX9Sh2t6&_nc_ht=scontent.ftpa1-2.fna&oh=ac6d7970728d098940ddd0b38b24b41d&oe=5F56E5C1" alt="Julia Alsop">
 
-  <p>Write a short paragraph about yourself or some placeholder text.</p>
-  <p>A second short paragraph about yourself or some placeholder text.</p>
+  <p>Something about myself</p>
+  <p>Something else about myself.</p>
 
   <ul>
     <li><strong>Email:</strong> <a href="#">juliamalsop@gmail.com</a></li>
